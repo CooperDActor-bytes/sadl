@@ -2,7 +2,7 @@ class Sadl < Formula
   desc "saltymedia downloader in rust"
   homepage "https://github.com/CooperDActor-bytes/sadl"
   url "https://github.com/CooperDActor-bytes/sadl/archive/v1.0.0.tar.gz"
-  sha256 "6537b176396f154580ebe55d20b340e67a9079f50531ef2c28778d06958c7621"
+  sha256 "a1140e2117549c19fb063cf2d0dbf26677145d8fff83731051b9b1bee140270f"
 
   depends_on "rust" => :build
 
